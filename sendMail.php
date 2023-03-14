@@ -6,9 +6,9 @@ require "./PHPMailer/src/Exception.php";
 require "./PHPMailer/src/PHPMailer.php";
 require "./PHPMailer/src/SMTP.php";
 
-$companyName = '';
-$companyEmail = '';
-$companyPass = '';
+$companyName = 'BARCELLA SOCIEDADE INDIVIDUAL DE ADVOCACIA';
+$companyEmail = 'contato@barcellaadvogados.com.br';
+$companyPass = 'ContatoBarcella123.';
 
 $subject = "Formulário {$name}"; 
 
